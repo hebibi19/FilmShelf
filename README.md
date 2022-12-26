@@ -2,6 +2,7 @@
 Movie Watchlist created using Java servlets/HTML/bootstrap
 
 ## About the Project
+// <img src="read_me_files/months.gif" width="650"/>
   
 ## Features
 
